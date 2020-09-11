@@ -1,0 +1,18 @@
+#############
+## JAVA
+#############
+
+target/
+*.idea
+CapturasReintegros/
+
+
+
+
+
+
+########
+## Reportes con allure
+########
+
+allure-results/
